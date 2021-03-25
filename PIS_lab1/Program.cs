@@ -6,7 +6,17 @@ namespace PIS_lab1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("lab vjezba 1");
         }
     }
+
+    class Program1
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("lab vjezba 1.1");
+        }
+    }
+
+
 }
